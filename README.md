@@ -6,7 +6,7 @@ It’s meant for learning and practicing Docker basics.
 ---
 
 
-## 1. Clone the repo
+Clone the repo:
 ```bash
 git clone https://github.com/your-username/docker-postgres-app.git
 cd docker-postgres-app
